@@ -5,7 +5,7 @@ const PORT = process.env.PORT || 3001;
 
 
 app.get("/", function(req, res) {
-    res.json(path.join(__dirname, "public/index.html"));
+    res.json(path.join(__dirname, "build"));
   });
 
 
