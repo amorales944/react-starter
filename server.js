@@ -4,9 +4,9 @@ const app = express();
 const PORT = process.env.PORT || 3001;
 
 
-app.get("/", function(req, res) {
-    res.json(path.join(__dirname, "build"));
-  });
+if (process.env.NODE_ENV === 'production') {
+
+  app.use(express.static('react-starter/build'));
 
 
   app.listen(PORT, function() {
