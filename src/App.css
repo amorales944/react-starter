@@ -127,3 +127,13 @@
   color: white;
   padding: 2em;
 }
+
+.aboutMe-grid h5 {
+  background-color: black;
+  color: white;
+  opacity: .8;
+  padding: 2em;
+  margin: 8em;
+  /*border-radius: 10px; */
+  
+}
