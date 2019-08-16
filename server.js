@@ -6,7 +6,7 @@ const PORT = process.env.PORT || 3001;
 
 if (process.env.NODE_ENV === 'production') {
 
-  app.use(express.static('react-starter/build'));
+  app.use(express.static('client/build'));
 
 
   app.listen(PORT, function() {
