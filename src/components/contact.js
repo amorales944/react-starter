@@ -22,7 +22,7 @@ class Contact extends Component {
             </p>
           </Cell>
           <Cell col={6}>
-            <h2>Contact Me</h2>
+            <h2 style={{textAlign:"left"}}>Contact Me</h2>
             <hr />
 
             <div className="contact-list">
