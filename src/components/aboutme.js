@@ -22,7 +22,6 @@ class Aboutme extends Component {
               ribs leberkas. Frankfurter alcatra fatback biltong short loin
               filet mignon. Tenderloin jowl tail ham. Biltong pork chop swine
               short loin jerky shank cow. Leberkas strip steak prosciutto pork.
-
                 kielbasa cow shank venison pork chop ham porchetta. Chicken
               brisket prosciutto tenderloin. Meatball bacon jowl burgdoggen
               drumstick, porchetta pork belly andouille kevin ball tip bresaola
